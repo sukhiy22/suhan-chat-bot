@@ -14,7 +14,7 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
 
-  "nickNameBot": "[,]𝐍𝐈𝐉𝐇𝐔𝐌-𝐂𝐇𝐀𝐓-𝐁𝐎𝐓",
+  "nickNameBot": "[,]𝗦𝗨𝗛𝗔𝗡 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧 🤖🔥",
 
   "prefix": ",",
 
@@ -24,13 +24,13 @@
   },
 
   "adminBot": [
-    "61592697905168",
+    "61589732935126",
     "61592612064543"
   ],
 
   "security": {
     "enableOwnerLock": true,
-    "ownerUID": "61592697905168",
+    "ownerUID": "61589732935126",
     "ownerIndex": 0,
     "notes": "Do not change adminBot[0], bot will stop if modified"
   },
